@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/mitik/.platformio/penv/bin:/home/mitik/bin:/home/mitik/.local/bin:/home/mitik/.rbenv/plugins/ruby-build/bin:/home/mitik/.rbenv/shims:/home/mitik/.rbenv/bin:/home/mitik/google-cloud-sdk/bin:/usr/local/apache-maven/bin:/home/mitik/bin:/home/mitik/.local/bin:/usr/local/apache-maven/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/mitik/Android/Sdk/tools:/home/mitik/Android/Sdk/platform-tools"
+    }
+}
